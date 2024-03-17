@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 
 public class 짝지어_제거하기 {
 
-    // 240317
+    // 240316
 
     public static void main(String[] args) {
         System.out.println(solution("baabaa")); // 1

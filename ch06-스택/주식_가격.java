@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class 주식_가격 {
 
-    // 240317
+    // 240316
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(solution(new int[]{1, 2, 3, 2, 3}))); // [4, 3, 1, 1, 0]
